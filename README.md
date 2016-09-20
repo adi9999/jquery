@@ -1,4 +1,4 @@
-[jQuery](https://jquery.com/) — New Wave JavaScript
+Adeel[jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
 Contribution Guides
